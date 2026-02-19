@@ -7,12 +7,12 @@ SHOW DATABASES;
 
 ### How to create database?
 ~~~sql
-CREATE DATABASE 2CSE24_2410031289;
+CREATE DATABASE 2CSE21_2410030805;
 ~~~
 
 ### How to use database?
 ~~~sql
-USE 2CSE24_2410031289;
+USE 2CSE21_2410030805;
 ~~~
 
 ### How to create table?
