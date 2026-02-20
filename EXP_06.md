@@ -9,3 +9,8 @@ SELECT e.empno, e.ename, e.deptno, d.dname
  JOIN department d
  ON e.deptno = d.deptno;
  ~~~
+
+ ### 2. Display your age in days. 
+ ~~~sql
+ SELECT DATEDIFF(CURDATE(),'2004-01-01')
+ AS age_in_days;
